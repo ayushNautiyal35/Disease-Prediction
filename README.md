@@ -7,13 +7,18 @@ Creating Graphic User Interface for prediction of disease using Python Tkinter.
 # Motivation-  
 Disease prediction find solution to many problems which are :
 •	It is beneficial for the people as it give them the idea according to their symptoms whether they are at risk or have to consult doctor or it is a normal problem.
+
 •	It is beneficial for the people in saving their money as for the common disease they have to spend their lot of time and money.
+
 •	It is also beneficial for the government as they have to examine high risk people only .
 
 # TOOLS USED -  
 •	Jupyter Notebook.
+
 •	Python Libraries.
+
 •	Python Tkinter tools.
+
 •	Datasets for the specific disease.
 
 
