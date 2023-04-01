@@ -1,6 +1,7 @@
 # Disease-Prediction
-Multiple disease is predicted according to the symptoms and the python tkinter is use for GUI
-PROBLEM STATEMENT -   Creating Graphic User Interface for prediction of disease using Python Tkinter.
+Multiple disease is predicted according to the symptoms and the python tkinter is use for GUI.
+
+# PROBLEM STATEMENT -   Creating Graphic User Interface for prediction of disease using Python Tkinter.
 
 # Motivation-  
 Disease prediction find solution to many problems which are :
